@@ -53,6 +53,8 @@ career-profile:
       I've +5 years experience in android development. 
       I've worked in many android apps like uber/careem. 
       I've worked with e-commerce/ loyality app.
+      I've worked with clean architecture MVVM,MVP,MVC,SOLID DESIGN patterns,DI Dagger-Hilt
+      I'm working on learning CS50,clean code,CI/CD, Unit Testing, UI Testing Espresso.
 education:
     - degree: Bsc in Computer Science
       university: https://www.iti.gov.eg/
@@ -76,7 +78,7 @@ experiences:
         also, I've worked on Creating Qi-Customer-Loyality app 
         https://play.google.com/store/apps/details?id=com.upskwt.loyalty.qi.dot
         also, I've worked on Creating,structuring Qi-Store app 
-        using Mvvm,Rx,Dagger,CustomViews,Retrofit
+        using Mvvm,Rx,Dagger, CustomViews, Retrofit, myfatoorah sdk, QiCard Iraq
     - role: Android Developer
       time: 2018 - 2019
       company: https://www.linkedin.com/company/arabia-for-information-technology/
@@ -93,6 +95,13 @@ experiences:
         https://apkpure.com/ar/kaptan-driver/com.smarkiz.driveme.customer
         https://apkpure.com/ar/kaptan-driver/com.smarkiz.driveme.driver
         app was structured with firebase realtime database, firebase messaging , firebase UI , MVP
+    - role: Android Developer
+      time: 2016 - 2017
+      company: https://www.linkedin.com/company/meshwar-online/
+      details: |
+        I've worked on updating app called Meshwar(Uber-Like) customer. driver
+        https://apkpure.com/meshwar-online/com.sbs16.online.meshwar
+        app was structured with signalR for realtime tracking, NBE shopping payment gateway.
 projects:
     title: Projects
     intro: >
