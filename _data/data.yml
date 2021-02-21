@@ -65,7 +65,7 @@ education:
         - http://edeltasoft.com/en/
         
     - degree: Bsc in Computer Science
-      university: [http://en.fci.zu.edu.eg/faculty/default]
+      university: http://en.fci.zu.edu.eg/faculty/default
       time: 2011 - 2015
       details: |
         - I've graduated with very good grade,
