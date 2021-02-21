@@ -9,18 +9,18 @@ sidebar:
     # Profile information
     name: Mohamed Elagamy
     tagline: Android Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: #profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: mohamedagamy215@gmail.com
     phone: +20 101 268 0910
-    website: blog.webjeda.com #do not add http://
+    website: mohamedagamy.github.io/online-cv/ #do not add http://
     linkedin: mohamed-elagamy
     github: mohamedagamy
     telegram: # add your nickname without '@' sign
     gitlab: mohamedagamy215
     bitbucket: mohamedagamy
-    twitter: '@webjeda'
+    twitter: ''
     stack-overflow: 7329408/mohamed-elagamy # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -50,7 +50,7 @@ career-profile:
     summary: |
       I've graduated from Faculty of Computers and Informatics with very good grade. 
       I've graduated from Information Technology Institute. 
-      I've 4 years experience in android development. 
+      I've +5 years experience in android development. 
       I've worked in many android apps like uber/careem. 
       I've worked with e-commerce/ loyality app.
 education:
