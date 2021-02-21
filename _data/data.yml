@@ -56,12 +56,15 @@ career-profile:
       I've worked with clean architecture MVVM,MVP,MVC,SOLID DESIGN patterns,DI Dagger-Hilt
       I'm working on learning CS50,clean code,CI/CD, Unit Testing, UI Testing Espresso.
 education:
-    - degree: Bsc in Computer Science
+    - degree: ITI 9-Month scholarship
       university: https://www.iti.gov.eg/
       time: 2016 - 2017
       details: |
         I've graduated with very good grade, 
-        I've worked for a month as KTP program at http://edeltasoft.com/en/
+        I've worked for a month as KTP program at 
+        
+        http://edeltasoft.com/en/
+        
     - degree: Bsc in Computer Science
       university: http://en.fci.zu.edu.eg/faculty/default
       time: 2011 - 2015
@@ -74,9 +77,9 @@ experiences:
       company: https://www.linkedin.com/company/ups-kwt/mycompany/
       details: |
         I've worked on bug fixing for Food Delivery app called Cravez
-        https://play.google.com/store/apps/details?id=com.ups.cravez&hl=en&gl=US
-        also, I've worked on Creating Qi-Customer-Loyality app 
-        https://play.google.com/store/apps/details?id=com.upskwt.loyalty.qi.dot
+        - https://play.google.com/store/apps/details?id=com.ups.cravez&hl=en&gl=US 
+        also, I've worked on Creating Qi-Customer-Loyality app
+        - https://play.google.com/store/apps/details?id=com.upskwt.loyalty.qi.dot
         also, I've worked on Creating,structuring Qi-Store app 
         using Mvvm,Rx,Dagger, CustomViews, Retrofit, myfatoorah sdk, QiCard Iraq
     - role: Android Developer
@@ -84,23 +87,23 @@ experiences:
       company: https://www.linkedin.com/company/arabia-for-information-technology/
       details: |
         I've worked on app called Udoony
-        https://play.google.com/store/apps/details?id=com.arabiait.udoony&hl=en&gl=US
+        - https://play.google.com/store/apps/details?id=com.arabiait.udoony&hl=en&gl=US
         also,I've worked on app called konasha(Notes App)
-        https://play.google.com/store/apps/details?id=com.arabiait.konasha&hl=en&gl=US
+        - https://play.google.com/store/apps/details?id=com.arabiait.konasha&hl=en&gl=US
     - role: Android Developer
       time: 2017 - 2018
       company: http://www.provision-grp.com/
       details: |
         I've worked on updating app called kaptan(Uber-Like) customer. driver
-        https://apkpure.com/ar/kaptan-driver/com.smarkiz.driveme.customer
-        https://apkpure.com/ar/kaptan-driver/com.smarkiz.driveme.driver
+        - https://apkpure.com/ar/kaptan-driver/com.smarkiz.driveme.customer
+        - https://apkpure.com/ar/kaptan-driver/com.smarkiz.driveme.driver
         app was structured with firebase realtime database, firebase messaging , firebase UI , MVP
     - role: Android Developer
       time: 2016 - 2017
       company: https://www.linkedin.com/company/meshwar-online/
       details: |
         I've worked on updating app called Meshwar(Uber-Like) customer. driver
-        https://apkpure.com/meshwar-online/com.sbs16.online.meshwar
+        - https://apkpure.com/meshwar-online/com.sbs16.online.meshwar
         app was structured with signalR for realtime tracking, NBE shopping payment gateway.
 projects:
     title: Projects
