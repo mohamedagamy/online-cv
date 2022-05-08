@@ -72,7 +72,14 @@ education:
         - I've created health care system as aproject graduation.
 experiences:
     - role: Android Developer
-      time: 2019 - Present
+      time: 2022 - Present
+      company: https://www.linkedin.com/company/segmatek/mycompany/
+      details: |
+        - I've worked on bug fixing for MyWe Application
+        - https://play.google.com/store/apps/details?id=com.ucare.we&hl=en&gl=US
+        - also, I've worked on Google-huwaei feature.
+    - role: Android Developer
+      time: 2019 - 2021
       company: https://www.linkedin.com/company/ups-kwt/mycompany/
       details: |
         - I've worked on bug fixing for Food Delivery app called Cravez
